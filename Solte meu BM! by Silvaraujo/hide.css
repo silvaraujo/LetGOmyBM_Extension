@@ -30,6 +30,17 @@
     display: none !important;   /*Oculta os filtros, isoladamente*/
 }
 
+#saved-replies {    /*Oculta os replies na caixa onde enviamos a interação*/
+    display: none !important;
+}
+
+#modal-reply > div.interaction {    /*Redimensiona o css onde enviamos a interação*/
+    margin: 10px auto;
+    width: 100%;
+    box-sizing: border-box;
+    
+}
+
 .container-posts {      /* conserta o problema da margem sem alterar a configuração predefinida */
     margin: 10px auto;
     width: 100%;

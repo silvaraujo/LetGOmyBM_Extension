@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Solte meu BM! by Silvaraujo",
+  "version": "1.0.0",
+  //suporta comentários durante o desenvolvimento, porém precisam ser apagados antes de fazer o upload para o Chrome Web Store
+  "description": "Essa extensão melhora a visualização do Buzzmonitor durante o atendimento de Social CRM / This extension improves Buzzmonitor's visualization during Social Media CRM service",
+  "icons": {
+    "48": "images/icon-48.png"
+  },
+
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "action": {
+  },
+
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "windows": "Ctrl+B",
+        "mac": "Command+B",
+        "chromeos": "Ctrl+B",
+        "linux": "Ctrl+B"
+      }
+    }
+  },
+
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ]
+}

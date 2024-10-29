@@ -1,0 +1,41 @@
+/** {*/
+/*    display: none !important; !* desfaz o css da pagina*!*/
+/*}*/
+
+/*.flex-container , .flex-container * {*/
+/*    display: block !important;  !*manipular desse jeito nao funciona nessa pagina. Acaba exibindo varios modais.*!*/
+/*}*/
+
+.flex-container > .topbar {
+    display: none !important;   /*Oculta a barra de navegacao, isoladamente*/
+}
+
+#stage-contents > div.breadcrumb {
+    display: none !important;   /*Oculta o breadcrumb, isoladamente*/
+}
+
+#stage-contents > div.active-filters.ng-scope {
+    display: none !important;   /*Oculta os filtros ativos, isoladamente*/
+}
+
+#comparison_container {
+    display: none !important;   /*Oculta esse container de comparação (Opicional, pois não aparece nesse report que utilizo. maaaas....)*/
+}
+
+#stage-contents > div:nth-child(3) > div.chart.class_none {
+    display: none !important;   /*Oculta os gráficos, isoladamente*/
+}
+
+#quick-settings {
+    display: none !important;   /*Oculta os filtros, isoladamente*/
+}
+
+.container-posts {      /* conserta o problema da margem sem alterar a configuração predefinida */
+    margin: 10px auto;
+    width: 100%;
+    box-sizing: border-box;
+    position: relative;
+    padding: 0 2em;
+    float: left;
+    z-index: 1 !important;
+}

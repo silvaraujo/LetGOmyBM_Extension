@@ -1,6 +1,8 @@
 # LetGOmyBM Extension
 
-Ferramenta baseada em [Chrome extension](https://developer.chrome.com/docs/extensions/get-started?hl=pt-br), muito simples e dedicada a facilitar o atendimento de CRM na plataforma de monitoramento de Social media chamada [Buzzmonitor](https://buzzmonitor.com.br).
+Ferramenta baseada em [Chrome extension](https://developer.chrome.com/docs/extensions/get-started?hl=pt-br), muito simples e dedicada a facilitar o atendimento de CRM na plataforma de monitoramento de Social media chamada [Buzzmonitor](https://buzzmonitor.com.br). 
+> ***_FINALIDADE_: Ela oculta a parte de [UI](https://www.cursospm3.com.br/glossario/ui-user-interface/) que não utilizamos durante o trabalho e isso _melhora a performance_ do aplicativo e da _interação do usuário_ com o aplicativo em geral.***
+ 
 > [!CAUTION]
   > Não compartilhem ou baixem essa pasta de extensão com terceiros. É importante também que, antes de utilizar a extensão, tenham certeza que estão executando-o em um computador seguro para que ninguém obtenha os dados de seu navegador sem seu conhecimento. Só utilizem a versão disponibilizada aqui.
 
@@ -8,7 +10,7 @@ Ferramenta baseada em [Chrome extension](https://developer.chrome.com/docs/exten
 > [!NOTE]
 > Como é cobrada uma taxa para a publicação de extensões na [Chrome Web Story](https://chromewebstore.google.com/category/extensions), optei por seguir os passos de instalação manual. Sendo assim, sigam o tutorial abaixo.
 
-1. Baixem o .zip deste repositório acessando o botão verde **"<> Code"** e clicando em **"Download ZIP"**. Acessando esse [link](https://docs.github.com/pt/repositories/working-with-files/using-files/downloading-source-code-archives) é possível visualizar, com imagens, como efetuar o download.
+1. Baixem o .zip deste repositório acessando o botão verde **"<>Code"** e clicando em **"Download ZIP"**. Acessando esse [link](https://docs.github.com/pt/repositories/working-with-files/using-files/downloading-source-code-archives) é possível visualizar, com imagens, como efetuar o download.
 2. Extraia o arquivo .zip na pasta que preferir.
 3. Carreguem a extensão no seu navegador seguindo esses passos:
    - 1° Digite o link chrome://extensions/ para acessar as configurações de extensão no seu navegador Chrome
@@ -22,6 +24,9 @@ Ferramenta baseada em [Chrome extension](https://developer.chrome.com/docs/exten
 > A extensão possui um verificador de status **ON** e **OFF** que será exibido após a sua primeira interação.
 
 > [!WARNING]
-> Essa ferramenta só funciona nos links de report da plataforma do BM. Caso tenham dúvidas, basta verificar se contém o endereço app.buzzmonitor.com.br/reports nessa página acessada.
+> Essa ferramenta só funciona nos links de report da plataforma do BM. Caso tenham dúvidas, basta verificar se contém o endereço _app.buzzmonitor.com.br/reports_ nessa página acessada.
 
-### Qualquer dúvida ou problema parar executar a extensão, é só chamar! [![My Discord (caio_r.s.dearaujo)](https://img.shields.io/badge/My-Discord-%235865F2.svg)](https://discord.com/users/caio_r.s.dearaujo)
+### Qualquer dúvida ou problema para executar a extensão, é só chamar! [![My Discord (caio_r.s.dearaujo)](https://img.shields.io/badge/My-Discord-%235865F2.svg)](https://discord.com/users/caio_r.s.dearaujo)
+
+#### Não entendeu o nome da extensão? Confira o meme no Tiktok: 
+[![Solte minha camisa! Meme](https://pbs.twimg.com/ext_tw_video_thumb/1729144247243141120/pu/img/f2V__YP2c1O2x-7U.jpg)](https://www.tiktok.com/@metro.ambulante/video/7305334497036258565)

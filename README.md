@@ -1,7 +1,7 @@
 # LetGOmyBM Extension
 
-Ferramenta baseada em [Chrome extension](https://developer.chrome.com/docs/extensions/get-started?hl=pt-br), muito simples e dedicada a facilitar o atendimento de CRM na plataforma de monitoramento de Social media chamada [Buzzmonitor](https://buzzmonitor.com.br). 
-> ***_FINALIDADE_: Ela oculta a parte de [UI](https://www.cursospm3.com.br/glossario/ui-user-interface/) que não utilizamos durante o trabalho e isso _melhora a performance_ do aplicativo e da _interação do usuário_ com o aplicativo em geral.***
+Ferramenta baseada em [Google Extensions](https://developer.chrome.com/docs/extensions/get-started?hl=pt-br), muito simples e dedicada a facilitar o atendimento de CRM na plataforma de monitoramento de Social media chamada [Buzzmonitor](https://buzzmonitor.com.br). Utiliza a [API](https://developer.chrome.com/docs/extensions/reference/api?hl=pt-br) do Google Chrome para garantir segurança e estabilidade. 
+> ***_FINALIDADE_: Ela oculta a parte de [UI](https://www.cursospm3.com.br/glossario/ui-user-interface/) que não utilizamos durante o trabalho e isso _melhora a performance_ e a _interação do usuário_ com o aplicativo em geral.***
  
 > [!CAUTION]
   > Não compartilhem ou baixem essa pasta de extensão com terceiros. É importante também que, antes de utilizar a extensão, tenham certeza que estão executando-o em um computador seguro para que ninguém obtenha os dados de seu navegador sem seu conhecimento. Só utilizem a versão disponibilizada aqui.

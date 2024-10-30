@@ -34,11 +34,15 @@
     display: none !important;
 }
 
+#list-tickets {   /*Oculta a lista de tickets em /tickets */
+    display: none !important;
+}
+
 #modal-reply > div.interaction {    /*Redimensiona o css onde enviamos a interação*/
     margin: 10px auto;
     width: 100%;
     box-sizing: border-box;
-    
+
 }
 
 .container-posts {      /* conserta o problema da margem sem alterar a configuração predefinida */

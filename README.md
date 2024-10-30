@@ -1,7 +1,10 @@
-# LetGOmyBM Extension
+# Solte meu BM! ![nda](/Solte%20meu%20BM!%20by%20Silvaraujo/images/icon-48.png)
 
-Ferramenta baseada em [Google Extensions](https://developer.chrome.com/docs/extensions/get-started?hl=pt-br), muito simples e dedicada a facilitar o atendimento de CRM na plataforma de monitoramento de Social media chamada [Buzzmonitor](https://buzzmonitor.com.br). Utiliza a [API](https://developer.chrome.com/docs/extensions/reference/api?hl=pt-br) do Google Chrome para garantir segurança e estabilidade. 
-> ***_FINALIDADE_: Ela oculta a parte de [UI](https://www.cursospm3.com.br/glossario/ui-user-interface/) que não utilizamos durante o trabalho e isso _melhora a performance_ e a _interação do usuário_ com o aplicativo em geral.***
+Ferramenta baseada em [Google Extensions](https://developer.chrome.com/docs/extensions/get-started?hl=pt-br), muito simples e dedicada a facilitar o atendimento de CRM na plataforma de monitoramento de Social media chamada [Buzzmonitor](https://buzzmonitor.com.br). Utiliza a [API](https://developer.chrome.com/docs/extensions/reference/api?hl=pt-br) do Google Chrome para garantir segurança e estabilidade.
+
+![Demonstação da página inicial do report](/Images/demo.gif)
+
+> ***_FINALIDADE_: Ela oculta as partes de [UI](https://www.cursospm3.com.br/glossario/ui-user-interface/) que não utilizamos durante o trabalho e isso _melhora a performance_ e a _interação do usuário_ com o aplicativo em geral.***
  
 > [!CAUTION]
   > Não compartilhem ou baixem essa pasta de extensão com terceiros. É importante também que, antes de utilizar a extensão, tenham certeza que estão executando-o em um computador seguro para que ninguém obtenha os dados de seu navegador sem seu conhecimento. Só utilizem a versão disponibilizada aqui.
@@ -24,9 +27,9 @@ Ferramenta baseada em [Google Extensions](https://developer.chrome.com/docs/exte
 > A extensão possui um verificador de status **ON** e **OFF** que será exibido após a sua primeira interação.
 
 > [!WARNING]
-> Essa ferramenta só funciona nos links de report da plataforma do BM. Caso tenham dúvidas, basta verificar se contém o endereço _app.buzzmonitor.com.br/reports_ nessa página acessada.
+> Essa ferramenta só funciona nos links de report da plataforma do BM. Caso tenham dúvidas, basta verificar se **contém um dos endereços** _"app.buzzmonitor.com.br/reports" ou "app.buzzmonitor.com.br/tickets"_ nessa página acessada.
 
 ### Qualquer dúvida ou problema para executar a extensão, é só chamar! [![My Discord (caio_r.s.dearaujo)](https://img.shields.io/badge/My-Discord-%235865F2.svg)](https://discord.com/users/caio_r.s.dearaujo)
 
-#### Não entendeu o nome da extensão? Confira o meme no Tiktok: 
+#### Não entendeu o nome da extensão? Confira o meme no Tiktok clicando na imagem: 
 [![Solte minha camisa! Meme](https://pbs.twimg.com/ext_tw_video_thumb/1729144247243141120/pu/img/f2V__YP2c1O2x-7U.jpg)](https://www.tiktok.com/@metro.ambulante/video/7305334497036258565)

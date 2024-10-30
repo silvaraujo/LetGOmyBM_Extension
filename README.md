@@ -13,13 +13,14 @@ Ferramenta baseada em [Google Extensions](https://developer.chrome.com/docs/exte
 > [!NOTE]
 > Como é cobrada uma taxa para a publicação de extensões na [Chrome Web Story](https://chromewebstore.google.com/category/extensions), optei por seguir os passos de instalação manual. Sendo assim, sigam o tutorial abaixo.
 
-1. Baixem o .zip deste repositório acessando o botão verde **"<>Code"** e clicando em **"Download ZIP"**. Acessando esse [link](https://docs.github.com/pt/repositories/working-with-files/using-files/downloading-source-code-archives) é possível visualizar, com imagens, como efetuar o download.
+1. Baixem o .zip deste repositório acessando o botão **"<>Code"** e clicando em **"Download ZIP"**. Acessando esse [link](https://docs.github.com/pt/repositories/working-with-files/using-files/downloading-source-code-archives) é possível visualizar, com imagens, como efetuar o download. ![botão no git](/Images/button.png)
 2. Extraia o arquivo .zip na pasta que preferir.
 3. Carreguem a extensão no seu navegador seguindo esses passos:
    - 1° Digite o link chrome://extensions/ para acessar as configurações de extensão no seu navegador Chrome
    - 2° Ative o Modo do desenvolvedor no canto superior direito
    - 3° Clique em *"Carregar sem compactação"* ou *"Carregar expandida"*
-   - 4° Selecione a pasta da extensão **"Solte meu BM! by Silvaraujo"**
+   - 4° Selecione a pasta da extensão **"Solte meu BM! by Silvaraujo"** no local onde foi extraído o .zip
+   ![Adicionando a extensão](/Images/addExtension.gif)
   
 4. Para ativar a extensão, utilizem o atalho _Ctrl + B_ no windows ou _Command + B_ em MacOS. Você também pode simplesmente clicar na extensão para ativá-la.
 
